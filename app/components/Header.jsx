@@ -6,7 +6,6 @@ const headerItems = [
     {label: 'Handling States', path: '/states'},
     {label: 'Responsive Design', path: '/responsive'},
     {label: 'Customization', path: '/customization'},
-    {label: 'Customization', path: '/customization'},
 ]
 
 export default function Header(){
