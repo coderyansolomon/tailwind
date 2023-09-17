@@ -16,7 +16,7 @@ export default function UtilityFirst() {
                 written. Don't worry though, Tailwind doesn't include all possible CSS, only
                 the CSS you use. *Example styling this paragraph
             </p>
-            <p>
+            <p> 
                 What are some benefits of doing things this way? You no longer need to worry
                 about naming classes. Nor do you need to worry about adding a class that does 
                 something another developer already implemented. Also, everying is reusable. And you're
