@@ -2,7 +2,7 @@ export default function Responsive() {
     return (
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
             <h2 className={`mb-3 text-2xl font-semibold mt-5`}>
-              Handling States
+              Responsive Design
             </h2>
             <p>
                 All utility classes in Tailwind can be applied conditionally at a certain
